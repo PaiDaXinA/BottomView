@@ -13,9 +13,10 @@
         bottomView.setOnClick(this);//点击回调
         bottomView.setPosition(0);//设置选中的item
 	
-<img src="https://github.com/PaiDaXinA/img-folder/blob/master/S81120-13441435.jpg" with="375" height="800">
-<img src="https://github.com/PaiDaXinA/img-folder/blob/master/S81120-13451101.jpg" with="375" height="800">
-<img src="https://github.com/PaiDaXinA/img-folder/blob/master/S81120-13455391.jpg" with="375" height="800">
+
+<img src="https://github.com/PaiDaXinA/img-folder/blob/master/S81120-13441435.jpg" with="375" height="800" floate="left">
+<img src="https://github.com/PaiDaXinA/img-folder/blob/master/S81120-13451101.jpg" with="375" height="800" floate="left">
+<img src="https://github.com/PaiDaXinA/img-folder/blob/master/S81120-13455391.jpg" with="375" height="800" floate="left">
 	
 Add it in your root build.gradle at the end of repositories:
 
