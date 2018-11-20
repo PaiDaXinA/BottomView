@@ -13,6 +13,8 @@
         bottomView.setOnClick(this);//点击回调
         bottomView.setPosition(0);//设置选中的item
 	
+![Image text](https://github.com/PaiDaXinA/img-folder/blob/master/S81120-13441435.jpg)
+	
 Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
