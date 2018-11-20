@@ -1,5 +1,5 @@
 # BottomView
-  bottomView.setTextColors(Color.BLACK)//设置未选中标题颜色
+ 	bottomView.setTextColors(Color.BLACK)//设置未选中标题颜色
                 .setOpen(true)//是否显示中间大按钮，当标题个数为奇数是，自动不显示按钮
                 .setTextCheckColor(Color.BLUE)//设置选中标题颜色
                 .setSquare(true)//设置按钮是否居中还是往上突起，当setOpen(false)此设置无效
@@ -13,7 +13,9 @@
         bottomView.setOnClick(this);//点击回调
         bottomView.setPosition(0);//设置选中的item
 	
-![Image text](https://github.com/PaiDaXinA/img-folder/blob/master/S81120-13441435.jpg)
+<img src="https://github.com/PaiDaXinA/img-folder/blob/master/S81120-13441435.jpg" with="375" height="800">
+<img src="https://github.com/PaiDaXinA/img-folder/blob/master/S81120-13451101.jpg" with="375" height="800">
+<img src="https://github.com/PaiDaXinA/img-folder/blob/master/S81120-13455391.jpg" with="375" height="800">
 	
 Add it in your root build.gradle at the end of repositories:
 
